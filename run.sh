@@ -1,1 +1,2 @@
-npx ts-node  pool_price.ts
+# npx ts-node  src/pool_price.ts
+yarn start
