@@ -1,0 +1,2 @@
+# kannattaako-porssisahko
+Kannattaako pörssisähkö
